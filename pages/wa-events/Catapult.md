@@ -14,7 +14,7 @@ This is a fun, exciting event that teachers can use to capture student interest 
 
 - Catapults must be made out of PVC
 - No piece(s) of the Catapult may detach from the whole during operation.
-- Catapults must fit within the 2'8” x 2' x 1.5' size limitation, but the arm may extend outside of that when swinging.
+- Catapults must fit within the 2' x 2' x 1.5' size limitation, but the arm may extend outside of that when swinging.
 - Catapults must be able to fit the 50 lb sandbag to hold them in place.
 
 ## Information
